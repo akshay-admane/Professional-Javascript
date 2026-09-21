@@ -3,7 +3,7 @@
                      Professional JavaScript
 ===============================================================================
 
-Chapter 3 - Type Conversion (Part 1)
+Chapter 2 - Type Conversion (Part 1)
 
 Difficulty : ⭐⭐☆☆☆
 Estimated Time : 1.5 Hours
