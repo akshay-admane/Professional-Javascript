@@ -1,6 +1,5 @@
 ==========The Course Roadmap==========
 
-
 Module 1 — JavaScript Fundamentals
 1. Variables
 2. Data Types
