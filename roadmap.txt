@@ -1,0 +1,70 @@
+==========The Course Roadmap==========
+
+
+Module 1 — JavaScript Fundamentals
+1. Variables
+2. Data Types
+3. Type Conversion
+4. Operators
+5. Conditions
+6. Loops
+7. Functions
+8. Scope
+9. Arrays
+10. Objects
+
+
+Module 2 — Working with Data
+Strings
+Numbers
+Math
+Date
+Array Methods
+Object Methods
+
+
+Module 3 — Modern JavaScript
+Template Literals
+Destructuring
+Spread
+Rest
+Arrow Functions
+Callbacks
+Promises
+Async/Await
+Modules
+Classes
+
+
+Module 4 — Programming Mindset
+Code Organization
+Clean Code
+Debugging
+Reading Code
+Refactoring
+
+
+Module 5 — Problem Solving
+Strings
+Arrays
+Objects
+Maps
+Sets
+Logic Building
+
+
+Module 6 — TypeScript
+From Beginner → Advanced
+
+
+Module 7 — Node.js Essentials
+Everything needed for automation
+
+
+Module 8 — Playwright
+Framework Design
+POM
+Fixtures
+API Testing
+CI/CD
+Best Practices
