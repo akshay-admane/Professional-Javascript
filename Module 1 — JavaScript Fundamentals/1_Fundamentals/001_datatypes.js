@@ -3,7 +3,7 @@
                     Professional JavaScript
 ===============================================================================
 
-Chapter 2 - Data Types
+Chapter 1 - Data Types
 
 Difficulty : ⭐☆☆☆☆
 Estimated Time : 1.5 - 2 Hours
